@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://sonali047.github.io/Portfolio/project.html](https://sonali047.github.io/Portfolio/project.html)
+- 👨‍💻 All of my projects are available at [https://sonali047.github.io/Portfolio/project.html](https://sonali047.github.io/Portfolio/)
 
 - 📫 How to reach me **sonalibhowmick207@gmail.com**
 
